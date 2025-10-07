@@ -29,11 +29,11 @@ h6 { font-size: 1em;}
 
 p{font-size: 1em;}
 
-#about_me{background-color: rgb(122, 169, 153);
+#about_me{background-color: #e4c5c5;
           padding: 5px;}
 
 #main-title{
-    color: darkblue;
+    color: rgb(175, 1, 1);
     text-align: center;
 }
 
