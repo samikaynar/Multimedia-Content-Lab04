@@ -1,0 +1,50 @@
+body{
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    padding: 10px;
+}
+.container {
+    margin: 0 auto; 
+    padding: 20px; 
+    background-color: white;
+}
+
+nav {
+    background-color: #e4c5c5;
+    padding: 15px 0;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+h1 { font-size: 3em;}
+h2 { font-size: 2.25em;}
+h3 { font-size: 1.5em;}
+h4 { font-size: 1.25em;}
+h5 { font-size: 1.1em;}
+h6 { font-size: 1em;}
+
+p{font-size: 1em;}
+
+#about_me{background-color: rgb(122, 169, 153);
+          padding: 5px;}
+
+#main-title{
+    color: darkblue;
+    text-align: center;
+}
+
+
+.project-section {
+  background-color: #c89595;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.flappybird-game{
+    text-align: center;
+}
